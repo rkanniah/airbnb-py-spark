@@ -1,0 +1,4 @@
+id,listing_url,amenities,minimum_nights,maximum_nights,price,weekly_price,city,country
+1,http://test/1,Tv,10,50,$100.00,$20.00,Paris,France
+343648,http://test/343648,"{TV,Internet,Wifi,Dog walk service}",8,30,$83.0,$180.0,Paris,France
+777648,http://test/343648,"{TV,Internet,Wifi,Dog walk service}",5,30,$83.0,,Paris,France

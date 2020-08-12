@@ -1,0 +1,10 @@
+{
+    "database_driver_class_name": "org.postgresql.Driver",
+    "database_driver_path": "C:/YOUR_FILE_PATH/postgresql-9.4.1212.jar",
+    "database_password": "YOUR_PASSWORD",
+    "database_url": "jdbc:postgresql://localhost:5432/YOUR_DB",
+    "database_user": "YOUR_USERNAME",
+    "database_table": "listing",
+    "input_filePath": "C:/YOUR_FILE_PATH/listings.csv",
+    "write_mode": "overwrite"
+}
