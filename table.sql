@@ -7,8 +7,8 @@ CREATE TABLE listing (
     minimum_nights INTEGER,
     maximum_nights INTEGER,
     price          NUMERIC(7, 2),
-	weekly_price   NUMERIC(7, 2),
-	city           VARCHAR(100),
-	country        VARCHAR(100),
-	CONSTRAINT pk_id_listing PRIMARY KEY(id)
+    weekly_price   NUMERIC(7, 2),
+    city           VARCHAR(100),
+    country        VARCHAR(100),
+    CONSTRAINT pk_id_listing PRIMARY KEY(id)
 );
